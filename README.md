@@ -1,4 +1,9 @@
 Node.IM
 =======
 
-an instant messaging service using node.js, socket.io, and logging to mongodb
+An instant messaging service using node.js, socket.io, and logging to mongodb
+
+Requires:
+Node.js
+Socket.io
+MongoDB
